@@ -2,7 +2,7 @@
 
 <!-- BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0806,50:0d0d1a,100:1a122&height=180&section=header&text=KAIQUE+OLIVEIRA&fontSize=48&fontColor=c9a96e&fontAlignY=40 &desc=Backend+Developer+%7C+RPA+Engineer&descAlignY=62&descSize=15&descColor=7a6a8a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0806,50:0d0d1a,100:1a122&height=180&section=header&text=KAIQUE+OLIVEIRA&fontSize=48&fontColor=c9a96e&fontAlignY=40&desc=Backend+Developer+%7C+RPA+Engineer&descAlignY=62&descSize=15&descColor=7a6a8a" />
 
 <!-- GIF RANNI -->
 
